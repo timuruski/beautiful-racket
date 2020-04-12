@@ -1,7 +1,7 @@
 #lang jsonic
 [
   @$ 'null $@,
-  @$ (/ 3 5) $@,
+  @$ (* 6 7) $@,
   @$ (= 2 (+ 1 1)) $@,
   @$ (list "array" "of" "strings") $@,
   @$ (hash 'key-1 'null
